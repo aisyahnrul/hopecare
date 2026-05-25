@@ -104,6 +104,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="view\Form1.resx" />
     <EmbeddedResource Include="view\login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
@@ -138,6 +139,10 @@
   <ItemGroup>
     <Folder Include="model\" />
     <Folder Include="service\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="view\Form1.cs.txt" />
+    <Content Include="view\Form1.Designer.cs.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -21,5 +21,20 @@ namespace hopecare
         {
 
         }
+
+        private void dokter_btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void hewan_btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void admin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
