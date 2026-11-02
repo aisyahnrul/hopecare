@@ -42,6 +42,6 @@ Proyek ini dikembangkan bersama 3 rekan tim lainnya.
 1. **Clone Repository**[cite: 1]
    ```bash
    git clone [https://github.com/aisyahnrul/hopecare.git](https://github.com/aisyahnrul/hopecare.git)
-   ```[cite: 1]
-2. Pastikan server **MySQL** aktif dan impor database proyek[cite: 1].
-3. Buka berkas `hopecare.slnx` di Visual Studio, lalu tekan **F5** / **Start**[cite: 1].
+   ```
+2. Pastikan server **MySQL** aktif dan impor database proyek.
+3. Buka berkas `hopecare.slnx` di Visual Studio, lalu tekan **F5** / **Start**.
